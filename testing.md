@@ -19,3 +19,27 @@ hola hola hola
 ## Hola Allan
 
 hola&#x20;
+
+```csharp
+// Some code
+public class class1
+{
+}
+```
+
+{% hint style="info" %}
+salazar comiendo empanada
+{% endhint %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+fdsafdsafasfdas
+{% endtab %}
+
+{% tab title="Second Tab" %}
+```sql
+// Some code
+create table t1();
+```
+{% endtab %}
+{% endtabs %}
